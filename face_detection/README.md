@@ -22,5 +22,5 @@ python detect_faces.py
 ```
 
 ## Requirements
-* pytorch 4.2
+* pytorch 1.5
 * Pillow, numpy
