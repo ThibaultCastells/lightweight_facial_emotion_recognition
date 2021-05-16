@@ -4,6 +4,8 @@ A light network to detect faces and classify emotions out of 5 categories (neutr
 
 The constraint in this project was to obtain a model of size <100MB (the lighter the better), while maintaining a good accuracy.
 
+This is a mini-project, made in 2 days.
+
 ## How to use it
 
 To train a new model, choose you parameters in *train.py* and run the following command:
